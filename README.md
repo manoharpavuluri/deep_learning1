@@ -1,1 +1,1 @@
-# deep_learning1
+# deep_learning_mnist
